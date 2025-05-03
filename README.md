@@ -21,15 +21,11 @@
 
 ## Screenshots of My Work
 
-
-
 ![result](r1.png)
 ![result](r2.PNG)
 ![result](r3.png)
 ![result](r4.png)
 ---
-
-
 
 ##  Final Notes
 
