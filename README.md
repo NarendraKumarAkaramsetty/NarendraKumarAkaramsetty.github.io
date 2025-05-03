@@ -73,23 +73,19 @@
 
 ## 🖼️ Screenshots of My Work
 
-📊 Scenario Input Agent Integration:
+📊 Scenario Input Agent Integration
 
-![Scenario Input Agent](https://raw.githubusercontent.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/main/r1.png)
+## Screenshots of My Work
 
-📈 Portfolio Data Handling and Tax Logic:
 
-![Portfolio Handler](https://raw.githubusercontent.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/main/r2.PNG)
 
-📉 Backtesting and Forecast Results:
-
-![Backtesting](https://raw.githubusercontent.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/main/r3.png)
-
-🔒 Security Measures and GDPR Compliance:
-
-![Security](https://raw.githubusercontent.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/main/r4.png)
-
+![result](r1.png)
+![result](r2.PNG)
+![result](r3.png)
+![result](r4.png)
 ---
+
+
 
 ## 🏁 Final Notes
 
