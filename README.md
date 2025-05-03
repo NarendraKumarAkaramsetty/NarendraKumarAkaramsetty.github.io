@@ -35,5 +35,5 @@
 
 This repository documents a complete development lifecycle for AI-powered stock analysis, showcasing modular agent implementation, tax optimization, backtesting strategies, dynamic input handling, visualization, and compliance.
 
-👤 **Contributions by**: [Narendra Kumar Akaramsetty](https://github.com/NarendraKumarAkaramsetty)  
-📂 View All Commits: [Repository Commit History](https://github.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/commits/main)
+**Contributions by**: [Narendra Kumar Akaramsetty](https://github.com/NarendraKumarAkaramsetty)  
+ View All Commits: [Repository Commit History](https://github.com/NarendraKumarAkaramsetty/AI-Agent-Stock-Prediction/commits/main)
